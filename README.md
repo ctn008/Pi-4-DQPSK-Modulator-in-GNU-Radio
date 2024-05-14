@@ -21,6 +21,6 @@ For this verification purpose, a random source of dibits will be used to feed th
 
 Because the demodulation process takes certain time and cause delays to the resulted dibit stream, to compare the two stream, a delay block is inserted to delay the input dibit stream so that the input and demodulated stream (as shown on the QT GUI Time Sink) can be compared for matching. 
 
-![image](https://github.com/ctn008/Pi-4-DQPSK-Modulator-in-GNURadio/assets/116415125/27471bad-8597-46ff-89d0-4b4d229976f8)
+![image](https://github.com/ctn008/Pi-4-DQPSK-Modulator-in-GNURadio/assets/116415125/75842f82-b582-463c-b1e2-df1d99a34099)
 
 The delay is set default at 48 to sync the input dibit stream with the output. It may change to different values on different computer on the Range Slider. 
